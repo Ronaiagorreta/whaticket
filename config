@@ -1,0 +1,9 @@
+deploy_password=brandxXaUHeZ3EKzU=
+mysql_root_password=brandx/hjmYbzuSd9mHPXnSxrgZ8CoTxepahoPy4BjW+5MQtJg=
+db_pass=brandx387FhYsm0olSm097541HMSdS=
+redis_pass=brandx387FShYsm0SaaSoRlSAAsme09a754s1DHMSsIdS=
+jwt_secret=3123123213123
+jwt_refresh_secret=75756756756
+deploy_email=deploy@whaticket.com
+db_user=root
+db_name=whaticket
