@@ -1,7 +1,7 @@
 node_modules
 public/*
 dist
-build
+# build
 !public/.gitkeep
 .env
 .env.test
