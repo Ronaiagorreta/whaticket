@@ -423,8 +423,7 @@ system_puppeteer_dependencies() {
                       libappindicator1 \
                       libnss3 \
                       lsb-release \
-                      xdg-utils \
-											unzip
+                      xdg-utils
 EOF
 
   sleep 2
