@@ -7,6 +7,8 @@ BACKEND_URL:  api.conectazappro.com.br
 
 ## CHECAR PROPAGAÇÃO DO DOMÍNIO ##
 
+apt-get install unzip
+
 https://dnschecker.org/
 
 ## COPIAR A PASTA PARA ROOT E RODAR OS COMANDOS ABAIXO ##
