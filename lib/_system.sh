@@ -15,7 +15,7 @@ system_create_user() {
   sleep 2
 
   sudo su - root <<EOF
-  useradd -m -p $(openssl passwd -crypt ${deploy_password}) -s /bin/bash -G sudo deploybrandx
+  useradd -m -p $(openssl passwd ${deploy_password}) -s /bin/bash -G sudo deploybrandx
   usermod -aG sudo deploybrandx
 EOF
 
